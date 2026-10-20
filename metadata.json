@@ -1,0 +1,8 @@
+{
+  "name": "ProbStat AI - Nền tảng Học tập Xác suất Thống kê Thông minh",
+  "description": "Nền tảng học tập & luyện thi Xác suất Thống kê thông minh tích hợp Trợ lý AI đa phương thức, Bảng vẽ iPad Canvas, AI Tutor chấm điểm barem & gợi ý chiến lược, Bản đồ tư duy và phân tích lỗi sai cá nhân hóa.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
